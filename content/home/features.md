@@ -2,8 +2,8 @@
 
 ## 📲 Grupos de Calouros
 
-* Discord: https://discord.gg/vbNYxVvVfv
-* Telegram: https://t.me/joinchat/CjaF60Z2KWbGULD5XIiEbQ
+* Discord: [link](https://discord.gg/vbNYxVvVfv)
+* Telegram: [link](https://t.me/joinchat/CjaF60Z2KWbGULD5XIiEbQ)
 
 
 ## 🧑‍💻 Aulas Remotas
