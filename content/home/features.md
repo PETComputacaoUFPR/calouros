@@ -10,7 +10,7 @@
 
 Como divulgado pela PROGRAD no [Calendário Acadêmico 2021](http://www.prograd.ufpr.br/portal/calendario-academico/) as aulas para Bacharelado em Ciência da Computação e Informática Biomédica serão **remotas**.
 
-## 📑 Numéro de Matrícula
+## 📑 Número de Matrícula
 
 Sempre que disserem "matrícula" ou "GRR" estão se referindo ao código obtido no ato da matrícula, por exemplo **GRR20210000**
 
