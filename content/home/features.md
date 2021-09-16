@@ -20,13 +20,13 @@ Sempre que disserem "matrícula" ou "GRR" estão se referindo ao código obtido 
 
 Para solicitar um email **@ufpr.br** [clique aqui](https://intranet.ufpr.br/intranet/) e acesse o Intranet
 
-Com esse e-mail você terá acesso aos recursos do [Office365](https://www.office.com/).
+Com esse e-mail você terá acesso aos recursos do [Office365](https://www.office.com/). Esse **não** é o e-mail utilizado pelo Departamento de Informática, quem mantém e dá suporte para o email **@ufpr.br** é a [AGTIC](https://www.agtic.ufpr.br/portal/).
 
 ### @INF.UFPR
 
 O e-mail @inf.ufpr.br é fornecido pelo [Departamento de Informática](https://web.inf.ufpr.br/dinf/) (DInf), e geralmente é utilizados pelos professores do departamento.
 
-Algumas atividades, como acesso remoto aos computadores do DInf, exigem esse e-mail.
+Algumas atividades, como acesso remoto aos computadores do DInf, envio de tarefas, comunicação com os professores, exigem esse e-mail.
 
 
 ## 📒 Disciplinas
