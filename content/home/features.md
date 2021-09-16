@@ -52,13 +52,18 @@ As próximas seções explicam, em linhas gerais, o funcionamento de algumas mat
 
 ## ✏️ Como são organizadas as atividades assíncronas?
 
-**Geralmente** as atividades das disciplinas de Cálculo e Complementos de Matemática (ambas do Departamento de Matemática) acontecem pelo [UFPR Virtual](https://ufprvirtual.ufpr.br/).
+### UFPR Virtual
+**Geralmente** as atividades das disciplinas de Cálculo e Complementos de Matemática (ambas do Departamento de Matemática) acontecem pelo [UFPR Virtual](https://ufprvirtual.ufpr.br/). Tutorial do UFPR Virtual: [link](http://www.cipead.ufpr.br/portal1/index.php/cipead/saberesonline/ufpr-virtual/).
+
+* Para o [UFPR Virtual](https://ufprvirtual.ufpr.br/) é utilizado o e-mail **@ufpr.br**
 
 ![UFPR Virtual](https://i.ytimg.com/vi/l6phOStMACc/maxresdefault.jpg)
 
-* Tutorial do UFPR Virtual: [link](http://www.cipead.ufpr.br/portal1/index.php/cipead/saberesonline/ufpr-virtual/)
+### Moodle C3SL (DINF)
 
-Já as disciplinas do Departamento de Informática (DInf), **geralmente**, acontem pelo [Moodle do C3SL](https://moodle.c3sl.ufpr.br/)
+As disciplinas do Departamento de Informática (DInf), como Algoritmos, Programação, Intro à Ciência da Computação, etc. **geralmente** acontem pelo [Moodle do C3SL](https://moodle.c3sl.ufpr.br/).
+
+* Para o [Moodle do C3SL](https://moodle.c3sl.ufpr.br/) é utilizado o e-mail do **DInf** (@inf.ufpr.br)
 
 ![Moodle](https://moodle.c3sl.ufpr.br/pluginfile.php/1/core_admin/logo/0x150/1617113971/moodle-c3sl-logo.png)
 
