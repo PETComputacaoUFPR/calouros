@@ -75,6 +75,6 @@ As plataformas, aplicativos, softwares de vídeoconferência são escolhidas por
 
 **Geralmente** as aulas ofertadas por outros departamentos (DMAT e EST) como Cálculo e Complementos de Matemática acontecem no [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in). Para acessar esse software, o calouro deve usar o email e senha **@ufpr**.
 
-As disciplinas do DInf, **geralmente**, ocorrem em plataformas sofware livre como o [Jitsi Meet](https://meet.jit.si/) e o [BigBlueButton](https://bigbluebutton.org/).
+As disciplinas do DInf **geralmente** ocorrem em plataformas sofware livre como o [Jitsi Meet](https://meet.jit.si/) e o [BigBlueButton](https://bigbluebutton.org/).
 
 Mas como foi mencionado, cada professor escolhe aquilo que for conveniente para sua aula. Outras opções são: Google Meet, Zoom, Discord, etc.
