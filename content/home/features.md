@@ -46,9 +46,9 @@ O primeiro período possui 5 matérias
 ### BCC
 
 * CI1003 – **Introdução à Ciência da Computação**
-* CI1055 – **Algoritmos e Estruturas de Dados 1**
+* CI1055 – **Algoritmos e Estruturas de Dados I**
 * CI1068 – **Circuitos Digitais**
-* CMA111 – **Cálculo 1A**
+* CMA111 – **Cálculo I**
 * CM304 – **Complementos de Matemática**
 
 ### IBM
