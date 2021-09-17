@@ -1,10 +1,14 @@
 # Manual de Sobrevivência EAD (não oficial)
 
-## 📲 Grupos de Calouros
+## 📲 Links para os Grupos de Calouros
 
-* Discord: [link](https://discord.gg/vbNYxVvVfv)
-* Telegram: [link](https://t.me/joinchat/CjaF60Z2KWbGULD5XIiEbQ)
+### BCC
+* [Discord](https://discord.gg/vbNYxVvVfv)
+* [Telegram](https://t.me/joinchat/CjaF60Z2KWbGULD5XIiEbQ)
+* [WhatsApp](https://chat.whatsapp.com/KBhy9Di07hQLBhmRLZ4CRr)
 
+### IBM
+* [WhatsApp](https://chat.whatsapp.com/F1nIVE8zGAZB5KGCFdAiv9)
 
 ## 🧑‍💻 Aulas Remotas
 
@@ -37,12 +41,23 @@ As matrículas nas disciplinas do curso são feitas pelo [SIGA UFPR](https://www
 
 ## 📚 Matérias dos Calouros
 
-O primeiro período possui 5 matérias:
+O primeiro período possui 5 matérias
+
+### BCC
+
 * CI1003 – **Introdução à Ciência da Computação**
 * CI1055 – **Algoritmos e Estruturas de Dados 1**
 * CI1068 – **Circuitos Digitais**
 * CMA111 – **Cálculo 1A**
 * CM304 – **Complementos de Matemática**
+
+### IBM
+
+* CI241 – **Introdução a Sistemas Computacionais**
+* CI055 – **Algoritmos e Estrutura de Dados I**
+* CM201 – **Cálculo Diferencial e Integral I**
+* CM045 – **Geometria Analítica I**
+* BA040 – **Anatomia Humana Sistêmica**
 
 ## 🧑‍🏫Como funcionam as aulas?
 
