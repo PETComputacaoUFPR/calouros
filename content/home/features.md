@@ -1,13 +1,13 @@
-# Manual de Sobrevivência EAD (não oficial)
+# Manual de Sobrevivência EAD
 
 ## 📲 Links para os Grupos de Calouros
 
-### BCC
+### Bacharelado em Ciência da Computação (BCC)
 * [Discord](https://discord.gg/vbNYxVvVfv)
 * [Telegram](https://t.me/joinchat/CjaF60Z2KWbGULD5XIiEbQ)
 * [WhatsApp](https://chat.whatsapp.com/KBhy9Di07hQLBhmRLZ4CRr)
 
-### IBM
+### Informática Biomédica (IBM)
 * [WhatsApp](https://chat.whatsapp.com/F1nIVE8zGAZB5KGCFdAiv9)
 
 ## 🧑‍💻 Aulas Remotas
