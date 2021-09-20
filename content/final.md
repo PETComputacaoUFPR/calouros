@@ -16,6 +16,6 @@ header:
 
 ## Existe Algo Escondido?
 
-* [Imagem 1](https://github.com/viniciusmioto/portfolio/raw/master/img/brain_604.ascii.pgm)
-* [Imagem 2](https://raw.githubusercontent.com/viniciusmioto/portfolio/master/img/galaxy.pgm)
-* [Imagem 3](https://raw.githubusercontent.com/viniciusmioto/portfolio/master/img/venus2.pgm)
+* [Imagens 1](https://github.com/viniciusmioto/portfolio/raw/master/img/images1.zip)
+* [Imagens 2](https://github.com/viniciusmioto/portfolio/raw/master/img/images2.zip)
+* [Imagens 3](https://github.com/viniciusmioto/portfolio/raw/master/img/images3.zip)
