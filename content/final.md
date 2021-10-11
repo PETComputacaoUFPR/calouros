@@ -15,9 +15,3 @@ header:
 ---
 
 ## Existe Algo Escondido?
-
-* [Imagens 1](https://github.com/viniciusmioto/portfolio/raw/master/img/images1.tar.xz)
-* [Imagens 2](https://github.com/viniciusmioto/portfolio/raw/master/img/images2.tar.xz)
-* [Imagens 3](https://github.com/viniciusmioto/portfolio/raw/master/img/images3.tar.xz)
-* [Imagens 4](https://github.com/viniciusmioto/portfolio/raw/master/img/images4.tar.xz)
-* [Imagens 5](https://github.com/viniciusmioto/portfolio/raw/master/img/images5.tar.xz)

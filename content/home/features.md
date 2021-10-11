@@ -1,15 +1,5 @@
 # Manual de Sobrevivência EAD
 
-## 📲 Links para os Grupos de Calouros
-
-### Bacharelado em Ciência da Computação (BCC)
-* [Discord](https://discord.gg/vbNYxVvVfv)
-* [Telegram](https://t.me/joinchat/CjaF60Z2KWbGULD5XIiEbQ)
-* [WhatsApp](https://chat.whatsapp.com/KBhy9Di07hQLBhmRLZ4CRr)
-
-### Informática Biomédica (IBM)
-* [WhatsApp](https://chat.whatsapp.com/F1nIVE8zGAZB5KGCFdAiv9)
-
 ## 🧑‍💻 Aulas Remotas
 
 Como divulgado pela PROGRAD no [Calendário Acadêmico 2021](http://www.prograd.ufpr.br/portal/calendario-academico/) as aulas para Bacharelado em Ciência da Computação e Informática Biomédica serão **remotas**.
