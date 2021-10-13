@@ -49,7 +49,7 @@ O primeiro período possui 5 matérias
 * CM045 – **Geometria Analítica I**
 * BA040 – **Anatomia Humana Sistêmica**
 
-## 🧑‍🏫Como funcionam as aulas?
+## 🧑‍🏫 Como funcionam as aulas?
 
 **Depende**. Cada matéria tem seu próprio funcionamento, o calouro pode encontrar informações sobre as disciplinas nesse [link](https://drive.google.com/drive/folders/1hDz2eKUTBmyTIzvzM7dMW9oHPvlnWFaW?usp=sharing). A maior parte das matérias fazem uma aula inaugural explicando como vai funcionar.
 

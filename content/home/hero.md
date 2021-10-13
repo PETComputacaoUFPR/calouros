@@ -38,7 +38,7 @@ Projeto de extensão de empreendedorismo social.
 
 Equipe de robótica da UFPR
 
-<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/87382695_3112132315463850_1370285942576775168_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=973b4a&_nc_ohc=MtGq2vhtT7oAX8SPUHZ&_nc_ht=scontent-gru2-2.xx&oh=852d8d8229f9608c497f43300efc39a0&oe=616684D1" width="100">
+<img src="http://pet.eletrica.ufpr.br/css/imagens/yapira.jpg" width="100">
 <br>
 
 
@@ -48,7 +48,7 @@ São vários grupos de pesquisa do Departamento de Informática da UFPR. Segue a
 
 * [C3SL](https://www.c3sl.ufpr.br/) - Centro de Computação Científica e Software Livre
 
-<img src="https://dokumente.ufpr.br/images/logo_c3sl.jpg" width="100">
+<img src="https://www.c3sl.ufpr.br/wp-content/uploads/2021/09/cropped-logotipo-c3-ufpr3.png" width="100">
 <br>
 
 * [SECRET](https://secret.inf.ufpr.br/) - SECurity & Reverse Engineering Team
