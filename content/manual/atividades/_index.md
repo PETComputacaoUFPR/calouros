@@ -99,3 +99,6 @@ São vários grupos de pesquisa do Departamento de Informática da UFPR. Segue a
 **Existem muitos outros grupos de pesquisa...**
 
 Confira a [página completa.](https://web.inf.ufpr.br/dinf/laboratorios-de-pesquisa/)
+
+{{< cta cta_text="👈 4- Aulas" cta_link="../aulas" >}}
+{{< cta cta_text="INICIO" cta_link="../../" >}}

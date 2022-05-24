@@ -22,7 +22,7 @@ O primeiro período possui 5 matérias, todas possuem um código específico
 * `CI1055` – **Algoritmos e Estruturas de Dados I**
 * `CI1068` – **Circuitos Digitais**
 * `CMA111` – **Cálculo I**
-* `CM304`– **Complementos de Matemática**
+* `CM304` – **Complementos de Matemática**
 
 ### IBM
 
@@ -38,3 +38,6 @@ O primeiro período possui 5 matérias, todas possuem um código específico
 Sabemos que o Departamento dos cursos de BCC e IBM é o DINF (Departamento de Informática), entretanto também temos disciplinas que são ofertadas por outros departamentos, por exemplo Cálculo que é oferecida pelo Departamento de Matemática (DMAT), Introdução à Estatística que é oferecida pelo Departamento de Estatística (DEST). Todos esses citados estão sob o Setor de Exatas da UFPR.
 
 Os alunos de IBM ainda possuem aulas com o Setor de Ciências Biológicas, como a disciplina de Anatomia.
+
+{{< cta cta_text="👈 2- Contas e E-mail" cta_link="../contas_e_email" >}}
+{{< cta cta_text="👉 4- Aulas" cta_link="../aulas" >}}

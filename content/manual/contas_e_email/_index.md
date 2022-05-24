@@ -38,3 +38,6 @@ Com esse e-mail você terá acesso aos recursos do [Office365](https://www.offic
 O e-mail @inf.ufpr.br é fornecido pelo [Departamento de Informática](https://web.inf.ufpr.br/dinf/), e geralmente é utilizados pelos professores do departamento.
 
 Algumas atividades, como acesso remoto aos computadores do DINF, envio de tarefas, comunicação com os professores, exigem esse e-mail.
+
+{{< cta cta_text="👈 1- Matricula" cta_link="../matricula" >}}
+{{< cta cta_text="👉 3- Matérias" cta_link="../materias" >}}

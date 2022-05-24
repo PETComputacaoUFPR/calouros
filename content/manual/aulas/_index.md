@@ -55,3 +55,6 @@ Alguns professores do DINF utilizam o [Moodle do C3SL](https://moodle.c3sl.ufpr.
 ## 📲 Grupos de matérias
 
 É bastante comum os alunos criarem um grupo de WhatsApp ou Telegram para cada matérias. É altamente recomendado entrar, isso faz com que muitos alunos não fiquem perdidos (ao menos, não sozinhos).
+
+{{< cta cta_text="👈 3- Matérias" cta_link="../materias" >}}
+{{< cta cta_text="👉 5- Atividades" cta_link="../atividades" >}}
