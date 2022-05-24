@@ -10,4 +10,4 @@ Se você tem alguma dúvida sobre a primeira semana, aulas, vida acadêmica, etc
 
 Confira a página da semana de calouros nesse [link](https://web.inf.ufpr.br/pet/calouros/).
 
-{{< cta cta_text="👉  Ir para o MANUAL" cta_link="manual" >}}
+{{< cta cta_text="👉  Ir para o MANUAL" cta_link="manual/matricula" >}}
