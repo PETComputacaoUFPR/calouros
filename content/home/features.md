@@ -8,3 +8,6 @@ Nesse primeiro momento, pode parecer muita informação para guardar, entretanto
 
 Se você tem alguma dúvida sobre a primeira semana, aulas, vida acadêmica, etc. não hesite em procurar algum membro do PET ou outro veterano para esclarecer o que for necessário. 
 
+Confira a página da semana de calouros nesse [link](https://web.inf.ufpr.br/pet/calouros/).
+
+{{< cta cta_text="👉  Ir para o MANUAL" cta_link="matricula" >}}

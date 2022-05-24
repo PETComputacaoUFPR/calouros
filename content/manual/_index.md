@@ -1,9 +1,10 @@
 ---
-title: Docs
+title: Manual
 type: book # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+Bem-vindo ao _Manual de Calouros_ UFPR!
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+
+{{< cta cta_text="👉 Começar a LER" cta_link="matricula" >}}
