@@ -1,3 +1,7 @@
+# Letra "L"
+
+* Com essa letra você deve ter um total de 6 coletadas
+
 .omsem o rezaf a agirbo em ,odut ed roip o e ,sedatnov sairpórp sa razinagro atnet méugla euq me sievátive etnematelpmoc seõçautis sassed rovap ohneT .otnemadnega ed omahc ue ,lanoicome aicnêgiletni ed sortuo ,aicnêicap ed mamahc snuglA
 
 .atsised oãn ,ocof ahnet ,odut ed evahc a é aicnêicaP .aizúd aiem otigíd o moc açemoc ahnes A .oãrdap o ravresbo e rizudart oriemirP .siaicepse saossep etnemos enu roma o ,saM .saossep sa enu oidó ed otnemitnes o euq es-erbmeL .evel ajes e oãçaroc on roma o evel sanepA .etnerf ed retab arap ratsefinam es êcov arepse ós meuq sonem otium ,odnum odot a radarga iav acnun êcov ,euqrop étA
