@@ -54,7 +54,7 @@ Alguns professores do DINF utilizam o [Moodle do C3SL](https://moodle.c3sl.ufpr.
 
 ## 📲 Grupos de matérias
 
-É bem comum os alunos criarem grupos de Telegram ou Whatsapp para cada matéria. O Telegram é recomendável por permitir fixar mensagens como datas de provas e entregas de trabalhos, livros recomendados pelos professores e outros recursos, além de ser possível enviar arquivos maiores etc.
+É bem comum os alunos criarem grupos de Telegram ou Whatsapp para cada matéria. O Telegram é recomendável por permitir fixar mensagens como datas de provas e entregas de trabalhos, livros passados pelos professores e outros recursos, além de ser possível enviar arquivos maiores etc.
 
 Independente da plataforma, é fortemente aconselhado entrar nos grupos; isso faz com que muitos alunos não fiquem perdidos (ao menos, não sozinhos).
 
