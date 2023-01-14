@@ -14,7 +14,7 @@ type: book # Do not modify.
 
 ## 📚 Disciplinas dos Calouros
 
-O primeiro período possui 5 matérias, todas possuem um código específico
+O primeiro período possui 5 matérias para BCC e 6 para IBM; todas possuem um código específico:
 
 ### BCC
 
@@ -26,12 +26,12 @@ O primeiro período possui 5 matérias, todas possuem um código específico
 
 ### IBM
 
-* `CI241` – **Introdução a Sistemas Computacionais**
-* `CI055` – **Algoritmos e Estrutura de Dados I**
-* `CM201` – **Cálculo Diferencial e Integral I**
-* `CM045` – **Geometria Analítica I**
-* `BA040` – **Anatomia Humana Sistêmica**
-
+* `CI1068` – **Circuitos Lógicos**
+* `CI1055` – **Algoritmos e Estruturas de Dados I**
+* `CI1003` – **Introdução à Computação**
+* `CM310` – **Pré-Cálculo**
+* `MN162` – **Organização do Sistema de Saúde Brasileiro**
+* `BA040` – **Anatomia Humana e Sistêmica**
 
 ## 📋 Departamentos
 
