@@ -20,9 +20,9 @@ O [Departamento de Informática](https://web.inf.ufpr.br/dinf/) (DINF) disponibi
 
 ```
 Nome Completo: João Silva
-Ano de Ingresso: 2022
-Usuário: js22
-E-mail do DInf: js22@inf.ufpr.br
+Ano de Ingresso: 2023
+Usuário: js23
+E-mail do DInf: js23@inf.ufpr.br
 ```
 
 ## 📧 Email
@@ -31,13 +31,19 @@ E-mail do DInf: js22@inf.ufpr.br
 
 Para solicitar um email **@ufpr.br** [clique aqui](https://intranet.ufpr.br/intranet/) e acesse o Intranet
 
-Com esse e-mail você terá acesso aos recursos do [Office365](https://www.office.com/). Esse **NÃO** é o e-mail utilizado pelo Departamento de Informática, quem mantém e dá suporte para o email **@ufpr.br** é a [AGTIC](https://www.agtic.ufpr.br/portal/).
+Esse **NÃO** é o e-mail utilizado pelo Departamento de Informática, quem mantém e dá suporte para o email **@ufpr.br** é a [AGTIC](https://www.agtic.ufpr.br/portal/).
 
 ### @INF.UFPR
 
-O e-mail @inf.ufpr.br é fornecido pelo [Departamento de Informática](https://web.inf.ufpr.br/dinf/), e geralmente é utilizados pelos professores do departamento.
+O e-mail **@inf.ufpr.br** é fornecido pelo [Departamento de Informática](https://web.inf.ufpr.br/dinf/), e geralmente é utilizados pelos professores do departamento.
 
 Algumas atividades, como acesso remoto aos computadores do DINF, envio de tarefas, comunicação com os professores, exigem esse e-mail.
+
+### Vantagens
+
+Os e-mails institucionais garantem várias vantagens aos estudantes – leia-se: serviços grátis (ou com desconto)!
+
+Por exemplo, o e-mail @ufpr.br dá acesso aos recursos do [Office365](https://www.office.com/). Já com o e-mail @inf.ufpr.br, você pode adquirir o [GitHub Pro](https://education.github.com/pack) gratuitamente. Pergunte aos veteranos sobre demais serviços (desconto no Spotify Premium, entre outros) e como acessá-los!
 
 {{< cta cta_text="👈 1- Matricula" cta_link="../matricula" >}}
 {{< cta cta_text="👉 3- Matérias" cta_link="../materias" >}}

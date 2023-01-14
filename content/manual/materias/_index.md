@@ -14,28 +14,28 @@ type: book # Do not modify.
 
 ## 📚 Disciplinas dos Calouros
 
-O primeiro período possui 5 matérias, todas possuem um código específico
+O primeiro período possui 5 matérias para BCC e 6 para IBM; todas possuem um código específico:
 
 ### BCC
 
 * `CI1003` – **Introdução à Ciência da Computação**
 * `CI1055` – **Algoritmos e Estruturas de Dados I**
 * `CI1068` – **Circuitos Digitais**
-* `CMA111` – **Cálculo I**
+* `CM310` – **Pré-Cálculo**
 * `CM304` – **Complementos de Matemática**
 
 ### IBM
 
-* `CI241` – **Introdução a Sistemas Computacionais**
-* `CI055` – **Algoritmos e Estrutura de Dados I**
-* `CM201` – **Cálculo Diferencial e Integral I**
-* `CM045` – **Geometria Analítica I**
-* `BA040` – **Anatomia Humana Sistêmica**
-
+* `CI1068` – **Circuitos Lógicos**
+* `CI1055` – **Algoritmos e Estruturas de Dados I**
+* `CI1003` – **Introdução à Computação**
+* `CM310` – **Pré-Cálculo**
+* `MN162` – **Organização do Sistema de Saúde Brasileiro**
+* `BA040` – **Anatomia Humana e Sistêmica**
 
 ## 📋 Departamentos
 
-Sabemos que o Departamento dos cursos de BCC e IBM é o DINF (Departamento de Informática), entretanto também temos disciplinas que são ofertadas por outros departamentos, por exemplo Cálculo que é oferecida pelo Departamento de Matemática (DMAT), Introdução à Estatística que é oferecida pelo Departamento de Estatística (DEST). Todos esses citados estão sob o Setor de Exatas da UFPR.
+Sabemos que o Departamento dos cursos de BCC e IBM é o DINF (Departamento de Informática), entretanto também temos disciplinas que são ofertadas por outros departamentos, por exemplo Pré-Cálculo que é oferecida pelo Departamento de Matemática (DMAT), Introdução à Estatística que é oferecida pelo Departamento de Estatística (DEST). Todos esses citados estão sob o Setor de Exatas da UFPR.
 
 Os alunos de IBM ainda possuem aulas com o Setor de Ciências Biológicas, como a disciplina de Anatomia.
 

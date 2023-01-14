@@ -41,7 +41,7 @@ Centro Acadêmico Alexandre Direne (Ciência da Computação)
 ## [CEIB](https://ceib.inf.ufpr.br/index.html)
 Centro Estudantil de Informática Biomédica
 
-<img src="https://scontent.fbfh9-1.fna.fbcdn.net/v/t1.6435-9/42512220_1107885759368366_2957125669521195008_n.png?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=j8IkJkucXAUAX8yRkzf&_nc_ht=scontent.fbfh9-1.fna&oh=00_AT8GoEGRuwz-vm_yL8CbP39KslvcCFd9e6WEklGhHalB8A&oe=62B36BC8" width="100">
+<img src="https://d1fdloi71mui9q.cloudfront.net/TPKIIS4SfuUQdFKm03qA_G6EnMi6a1DTwdQ9w" width="100">
 
 <br>
 
