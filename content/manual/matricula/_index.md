@@ -19,7 +19,7 @@ Durante a primeira semana de aulas, a matrícula de vocês já deve estar "ok". 
 
 ## 📑 Número de Matrícula
 
-Sempre que disserem "matrícula" ou "GRR" estão se referindo ao código obtido no ato da matrícula, por exemplo **GRR20221234**. Os primeiros quatro dígitos referem-se ao ano que você ingressou na UFPR.
+Sempre que disserem "matrícula" ou "GRR" estão se referindo ao código obtido no ato da matrícula, por exemplo **GRR20231234**. Os primeiros quatro dígitos referem-se ao ano que você ingressou na UFPR.
 
 
 ## 📒 Disciplinas 
