@@ -25,21 +25,21 @@ Grupo de graduandos em Ciência da Computação e Informática Biomédica.
 <br>
 
 ## [ECOMP](https://ecomp.co/)
-Empresa Júnior de Informática - UFPR
+Empresa Júnior de Informática - UFPR.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqiBVmZsZfkUdx1RVSIq_LRQGECfaNVOBpk35OUOICzXLmNGtoRaqqIohTSOTp8PvDBU&usqp=CAU" width="100">
 
 <br>
 
 ## [CAAD](https://caad.inf.ufpr.br/)
-Centro Acadêmico Alexandre Direne (Ciência da Computação)
+Centro Acadêmico Alexandre Direne (Ciência da Computação).
 
-<img src="https://pbs.twimg.com/profile_images/1475868844497461249/8mZviBni_400x400.jpg" width="100">
+<img src="https://caad.inf.ufpr.br/img/logo_caad.svg" width="100">
 
 <br>
 
 ## [CEIB](https://ceib.inf.ufpr.br/index.html)
-Centro Estudantil de Informática Biomédica
+Centro Estudantil de Informática Biomédica.
 
 <img src="https://d1fdloi71mui9q.cloudfront.net/TPKIIS4SfuUQdFKm03qA_G6EnMi6a1DTwdQ9w" width="100">
 
@@ -55,9 +55,17 @@ Projeto de extensão de empreendedorismo social.
 
 ## [YAPIRA](https://www.facebook.com/ufpr.yapira/)
 
-Equipe de robótica da UFPR
+Equipe de robótica da UFPR.
 
 <img src="https://media-exp1.licdn.com/dms/image/C560BAQHoSSh3LX1jnA/company-logo_200_200/0/1593464759360?e=2147483647&v=beta&t=UDjKBcz1z0-VGq4IDDLaNmcDXk26pUD0rItlx_2pW-c" width="100">
+
+<br>
+
+## [Capimara](https://www.inf.ufpr.br/maratona/)
+
+Grupo de programação competitiva da UFPR.
+
+<img src="https://www.inf.ufpr.br/maratona/simbolo.png" width="100">
 
 <br>
 <br>
