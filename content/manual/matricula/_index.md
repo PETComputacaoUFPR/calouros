@@ -24,9 +24,9 @@ Sempre que disserem "matrícula" ou "GRR" estão se referindo ao código obtido 
 
 ## 📒 Disciplinas 
 
-As matrículas nas disciplinas do curso são feitas pelo [SIGA UFPR](https://www.prppg.ufpr.br/siga/). **Os calouros foram matrículados automaticamente** em todas as matérias do primeiro período, então vocês **não** precisam se preocupar quanto a realização da matrícula. (Fique tranquilo)
+As matrículas nas disciplinas do curso são feitas pelo [SIGA UFPR](https://www.prppg.ufpr.br/siga/). **Os calouros foram matriculados automaticamente** em todas as matérias do primeiro período, então vocês **não** precisam se preocupar quanto a realização da matrícula. (Fique tranquilo)
 
-![](https://siga.ufpr.br/portal/wp-content/uploads/2020/06/tela-prograd.png)
+![Página inicial do SIGA](https://siga.ufpr.br/portal/wp-content/uploads/2020/06/tela-prograd.png)
 
 
 {{< cta cta_text="👈 Inicio" cta_link="../../" >}}
