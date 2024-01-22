@@ -20,9 +20,9 @@ O [Departamento de Informática](https://web.inf.ufpr.br/dinf/) (DINF) disponibi
 
 ```
 Nome Completo: João Silva
-Ano de Ingresso: 2023
-Usuário: js23
-E-mail do DInf: js23@inf.ufpr.br
+Ano de Ingresso: 2024
+Usuário: js24
+E-mail do DInf: js24@inf.ufpr.br
 ```
 
 ## 📧 Email
